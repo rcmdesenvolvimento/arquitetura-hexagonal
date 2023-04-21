@@ -13,4 +13,3 @@ Kafka
 MongoDB
 MapStruct
 OpenFeign
-
