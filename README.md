@@ -1,7 +1,7 @@
 # arquitetura-hexagonal
 Sistema usando Arquitetura Hexagonal
 
-Tecnologias.
+Tecnologias:
 Spring Boot
 Kafka
 MongoDB
