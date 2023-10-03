@@ -1,7 +1,7 @@
 # arquitetura-hexagonal
 Sistema usando Arquitetura Hexagonal
 
-rquitetura Hexagonal ou arquitetura de portas e adaptadores, tem como objetivo tornar todos os componentes do software fracamente acoplados, tornando de fácil substituição e facilitando na automação de teste.
+arquitetura Hexagonal ou arquitetura de portas e adaptadores, tem como objetivo tornar todos os componentes do software fracamente acoplados, tornando de fácil substituição e facilitando na automação de teste.
 
 Com essa abordagem, podemos trocar facilmente as diferentes camadas do aplicativo.
 
